@@ -10,5 +10,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivangi1713&show_icons=true&locale=en&layout=compact" alt="shivangi1713" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivangi1713&show_icons=true&locale=en" alt="shivangi1713" /></p>
+
 
